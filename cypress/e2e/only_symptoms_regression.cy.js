@@ -254,13 +254,4 @@ describe('User is able to get to the scheduling page', () => {
         cy.get('h1').contains('Let’s book your appointment now')
     })
 
-
-
-
-
-
-
-
-
-
 })
